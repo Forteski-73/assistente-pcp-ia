@@ -8,7 +8,7 @@ SÓ CHAMAR NO TERMINAL: python app.py
 
 EXEMPLO:
 
-PS C:\Users\diones.forteski\Desktop\Python\ia_sql> python app.py
+PS C:\Users\pc-name\Desktop\Python\ia_sql> python app.py
 --- Assistente de PCP Inteligente Iniciado ---
 Digite 'S' para encerrar.
 
